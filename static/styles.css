@@ -1,0 +1,39 @@
+
+/* region: CSS reset, courtesy of joshwcomeau.com/css/custom-css-reset/ */
+
+* { margin: 0; }
+html, body { height: 100%; }
+body { line-height: 1.5; -webkit-font-smoothing: antialiased; }
+img, picture, video, canvas, svg { display: block; max-width: 100%; }
+input, button, textarea, select { font: inherit; }
+p, h1, h2, h3, h4, h5, h6 { overflow-wrap: break-word; }
+#root, #__next { isolation: isolate; }
+a {text-decoration: none; color: var(--text-color)}
+
+/* endregion */
+
+:root {
+    --light-gray: #EEEEEE;
+    --light-green: #E7EDE5;
+    --light-blue: #D7F3FF;
+    --light-red: #F6E9EE;
+    --text-color: #000000;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    /*color: var(--text-color);*/
+    /*background-color: #FFFFFF;*/
+}
+
+.title {
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    line-height: 50px;
+}
+
+.section-wrapper {
+    width: 800px;
+    max-width: 100%;
+}
