@@ -6,7 +6,7 @@
             <img src="/images/contact-icons/Mail%20Icon.svg" alt="Icon eines Briefes">
             politik@joelgretsch.ch
         </a>
-        <a href="https://www.tiktok.com/discover/Joel-Gretsch" target="_blank" class="contact-tile contact-tile-halve-width">
+        <a href="https://www.tiktok.com/@joelgretsch" target="_blank" class="contact-tile contact-tile-halve-width">
             <img src="/images/contact-icons/TikTok%20Icon.svg" alt="Icon des TikTok logos">
             @joelgretsch
         </a>
