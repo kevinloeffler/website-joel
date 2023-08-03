@@ -75,9 +75,9 @@
         top: 0;
         left: 0;
         right: 0;
-        bottom: 0;
+        /*bottom: 0;*/
+        height: 100dvh;
         z-index: 99;
-
         background-color: white;
     }
 
@@ -135,6 +135,7 @@
     }
 
     button {
+        color: var(--text-color);
         border: none;
         background-color: transparent;
     }
