@@ -1,38 +1,20 @@
-# create-svelte
+# Website Joel Gretsch
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+This is the personal website of Joel Gretsch.
 
-## Creating a project
+### For editors
+To edit the text and content of the website you need to edit the svelte components. Each page has more or less one 
+corresponding component. They are located under `/src/lib/components/xyz.svelte`. The HTML code is usually wrapped 
+in a `<section>` tag. The positions get generated from JavaScript and therefore are inside an array, not HTML.
 
-If you're seeing this, you've probably already done this step. Congrats!
+To edit a component, open the [project in github](https://github.com/kevinloeffler/website-joel) navigate to the 
+component and click on the edit icon in the bar above the code. After all the edits are done, click on the `Commit 
+changes...` button, add a short description of the changes and commit them to the repository. It is recommended to 
+commit regularly (for example after changing one position) to have a detailed history of all changes.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+Committed changes do not automatically sync with the live website, for that the server has to be synced with the 
+repository (inform your admin when you want the changes to be synced).
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+### For maintainers
+The `update-project.sh` script should only be run on the server because it deletes all local changes and overwrites 
+them with current status of the origin/master.
