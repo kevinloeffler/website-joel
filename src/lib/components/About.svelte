@@ -4,7 +4,7 @@
 
     <div class="about-wrapper">
         <h2 class="title">ÜBER MICH</h2>
-        <p>Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext </p>
+        <p>Fliesstext </p>
     </div>
 
 </section>
