@@ -2,22 +2,23 @@
 
 echo "------------ UPDATE PROJECT ------------"
 
-echo "COMPOSE DOWN................"
+echo "1) COMPOSE DOWN................"
+sudo docker compose build
 sudo docker compose down
 
-echo "1) FETCH...................."
+echo "2) FETCH...................."
 git fetch
 
-echo "2) RESET LOCAL CHANGES......"
+echo "3) RESET LOCAL CHANGES......"
 git reset --hard origin/master
 
-echo "3) PERMISSIONS.............."
+echo "4) PERMISSIONS.............."
 chmod 777 update-project.sh
 
-echo "4) BUILD...................."
+echo "5) BUILD...................."
 npm run build
 
-echo "COMPOSE UP.................."
+echo "6) COMPOSE UP.................."
 sudo docker compose up -d
 
 echo "----------------- DONE -----------------"
