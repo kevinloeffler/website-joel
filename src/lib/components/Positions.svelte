@@ -26,7 +26,11 @@
         },
         {
             title: 'Klima',
-            text: 'Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext ',
+            text: ' Wir müssen unserer wichtigesten Ressource, dem Planeten, sorge tragen.'
+                    'Eine grüne Wirtschaft? Ja, das ist möglich. Exteren Effekte müssen in die Preise aufgenommen werden, denn so wird das Klima aktiv in Produktions- und Konsumentscheidungen einbezogen. 
+                    Klimafreundliche Alternativen werden attraktiver, sowohl für Konsument, wie auch Produzenten. Anreize für technologische Fortschritte und deren Implementierung werden gestärkt.
+                    Lenkungsabgaben sind ein gutes Werkzeug um genau das zu erreichen.'
+                    'Im weiteren ist es unabdingbar, dass unsere Energieversorgung konsequent auf Erneuerbare umgestellt wird, weshalb diese in den kommenden Jahren gefördert werden müssen.',
         },
         {
             title: 'Sozial',
