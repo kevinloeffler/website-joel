@@ -30,11 +30,16 @@
         },
         {
             title: 'Klima',
-            text: ' Wir müssen unserer wichtigesten Ressource, dem Planeten, sorge tragen.'
+            text: ' Wir müssen unserer wichtigesten Ressource, dem Planeten, Sorge tragen.'
                     'Eine grüne Wirtschaft? Ja, das ist möglich. Exteren Effekte müssen in die Preise aufgenommen werden, denn so wird das Klima aktiv in Produktions- und Konsumentscheidungen einbezogen. 
-                    Klimafreundliche Alternativen werden attraktiver, sowohl für Konsument, wie auch Produzenten. Anreize für technologische Fortschritte und deren Implementierung werden gestärkt.
+                    Klimafreundliche Alternativen werden attraktiver, sowohl für Konsumenten, wie auch Produzenten. Anreize für technologische Fortschritte und deren Implementierung werden gestärkt.
                     Lenkungsabgaben sind ein gutes Werkzeug um genau das zu erreichen.'
                     'Im weiteren ist es unabdingbar, dass unsere Energieversorgung konsequent auf Erneuerbare umgestellt wird, weshalb diese in den kommenden Jahren gefördert werden müssen.',
+        },
+        {
+            title: 'Gleichstellung',
+            text: 'Alle für einen, einer für alle. '
+                    'Alle haben eine respektvolle und gleichwertige Behandlung verdient. Egal ob Sexualität, Geschlecht oder Herkunft, der Staat muss alle gleich behandeln und sich darum bemühen, dass alle möglichst dieselben Chancen erhalten. ,
         },
         {
             title: 'Sozial',
