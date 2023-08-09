@@ -58,6 +58,7 @@
 
         font-size: 12px;
         font-weight: 600;
+        text-align: center;
     }
 
     .contact-tile-halve-width {
