@@ -37,13 +37,15 @@
                     'Im weiteren ist es unabdingbar, dass unsere Energieversorgung konsequent auf Erneuerbare umgestellt wird, weshalb diese in den kommenden Jahren gefördert werden müssen.',
         },
         {
-            title: 'Gleichstellung',
+            title: 'Gleichstellung & Chancengleichheit',
             text: 'Alle für einen, einer für alle. '
-                    'Alle haben eine respektvolle und gleichwertige Behandlung verdient. Egal ob Sexualität, Geschlecht oder Herkunft, der Staat muss alle gleich behandeln und sich darum bemühen, dass alle möglichst dieselben Chancen erhalten. ,
+                    'Alle haben eine respektvolle und gleichwertige Behandlung verdient. Egal ob Sexualität, Geschlecht oder Herkunft, der Staat muss alle gleich behandeln und sich darum bemühen, dass alle möglichst dieselben Chancen erhalten.
+                    Nebst der eindeutigen rechtlichen Gleichbehandlung gehört die Chancengleichheit zu einem wichtigen Eckpfeil. Das Bildungssystem ist die wichtigste Stelle um Unterschiede in den persönlichen Voraussetzungen zu minimieren.' ,
         },
         {
             title: 'Sozial',
-            text: 'Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext ',
+            text: 'Die Stärke der Schweiz misst sich am Wohl der Ärmsten. '
+,
         },
         {
             title: 'Migration',
