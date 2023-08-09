@@ -51,7 +51,11 @@
         },
         {
             title: 'Migration',
-            text: 'Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext ',
+            text: 'Humanitäre Tradition der Schweiz schützen. '
+                    'Wer in Not ist soll Hilfe erhalten. Dafür braucht es schnelle Asylverfahren und Missbräuche müssen bekämpft werden. Wer in der Schweiz lebt muss sich integrieren. Grundätzlich liegt dies in der Verantwortung der jeweiligen Person,
+                    dennoch soll der Staat, wo nötig, mit z. B. kostenlosen Sprachkursen Unterstützung bieten. Nach erfolgreicher Integration soll die schweizer Staatsbürgerschaft ohne Schickane erworben werden können. Unsinnige Hürden, wie jahrelanger 
+                    Wohnsitz in derselben Gemeinde gehören abgeschafft. Für die Einbürgerung sollen schweizweit die gleichen Regeln gelten. Zudem soll für Kinder und junge Erwachsene, welche ihre obligatorische Schulzeit in der Schweiz absolviert haben, 
+                    die Möglichkeit einer vereinfachten Einbürgen bestehen.' ,
         },
     ]
 
