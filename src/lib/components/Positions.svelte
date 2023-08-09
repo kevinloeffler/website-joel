@@ -15,7 +15,7 @@
     const positions: {title: string, text: string}[] = [
         {
             title: 'Europa',
-            text: 'Wir sind Teil Europas.
+            text: 'Wir sind Teil Europas.'
                     Die EU ist unsere wichtigste Handelspartnerin. 4 unserer 5 Nachbarländer sind Teil der EU. Und wir? Wir drohen ins Abseits zu geraten. Es ist höchste Zeit, unsere Beziehung wieder auf Vordermann zu bringen. 
                     Der einseitige Abbruch der Verhandlung zum Rahmenabkommen durch den Bundesrat war ein grosser Fehler. Die Verhandlung muss schnellstmöglich wieder aufgenommen werden, mit dem Ziel eines institutionellen Rahmenabkommens. 
                     Unsere Wirtschaft ist auf ein klares Abkommen angewiesen und die Bilateralen I und II erordieren zunehmends. Dringender Handlungsbedarf ist notwendig.,
