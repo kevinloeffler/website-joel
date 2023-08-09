@@ -1,7 +1,7 @@
 <section class="header-section section-wrapper">
 
     <div class="header-wrapper">
-        <h1 class="title">Mein <span class="header-highlighted-text highlighted-text-green">super</span> cooler
+        <h1 class="title">Für Regenbögen, Gletscher und Erfolg. Mein <span class="header-highlighted-text highlighted-text-green">super</span> cooler
             Wahlkampfspruch <span class="header-highlighted-text highlighted-text-blue">lebt</span> hier.</h1>
     </div>
 
