@@ -44,7 +44,9 @@
         },
         {
             title: 'Sozial',
-            text: 'Die Stärke der Schweiz misst sich am Wohl der Ärmsten. '
+            text: 'Die Stärke der Schweiz misst sich am Wohl der Ärmsten.'
+                    'Ein zielgerichtetes Sozialwesen als Auffangnetz ist wichtig. Wer auf Unterstützung angewiesen ist soll diese rasch erhalten. Dennoch soll in erster Linie Armut vermieden werden. Mittels einem starken Bildungssystem soll allen
+                    die Chance einer guten, finanziell anständigen Arbeit ermöglicht werden.   '
 ,
         },
         {
