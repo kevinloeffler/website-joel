@@ -4,7 +4,7 @@
 
     <div class="about-wrapper">
         <h2 class="title">ÜBER MICH</h2>
-        <p>Fliesstext </p>
+        <p>1998 in Zürich geboren, aufgewachsen in Wettswil am Albis im tollen Säuliamt, verbringe ich inzwischen meine Zeit sowohl weiterhin in Wettswil in meinem Elternhaus und in einer WG in Zürich Altstetten.  </p>
     </div>
 
 </section>
