@@ -22,7 +22,11 @@
         },
         {
             title: 'Wirtschaft',
-            text: 'Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext Hier kommt Fliesstext ',
+            text: 'Ein nachhaltiger und attraktiver Standort Schweiz.  '
+                    'Ein langfristig erfolgreicher Wirtschaftsstandort braucht attraktive Rahmenbedingungen, die nicht nur kurzfristige Gewinne im Blick haben. Wirtschaft und Klima müssen verknüpft werden, denn nur wenn es unserem Planeten gut geht,
+                    wird es langfristig auch unserer Wirtschaft gut gehen. Mehr dazu im Abschnitt Klima. Weiterhin müssen bürokratische Hürden möglichst klein gehalten werden. Start-ups sollen möglichst schnell und unkompliziert mit ihrer Arbeit beginnen können.
+                    Zudem ist eine gute, stabile Beziehung zur EU essentiell. Die EU ist ein wichtiger Markt für viele Unternehmen und Fachkräfte aus der EU sind in vielen Bereichen dringend gesucht.  
+                    Insgesamt müssen wir uns stetig in Erinnerung rufen, dass wir alle die Wirtschaft sind. Interessen der Unternehmen, Arbeitnehmenden, Konsumenten, etc. müssen alle gelichwertig berücksichtigt werden.' ,
         },
         {
             title: 'Klima',
