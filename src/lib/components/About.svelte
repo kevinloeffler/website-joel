@@ -4,11 +4,15 @@
 
     <div class="about-wrapper">
         <h2 class="title">ÜBER MICH</h2>
-        <p>1998 in Zürich geboren, durfte ich in Wettswil am Albis im Säuliamt aufwachsen. 
-Die Kombination von lädlichem Charme und Nähde zur Stadt ermöglichten mir eine schöne Kindheit und tolle Jugendjahre. 
-Dank tollen ÖV-Verbindungen konnte ich die Kantonsschule Enge besuchen, in welcher ich das Profil Wirtschaft und Recht absolvierte. 
-Dort wurde mein Interesse für Wirtschaft und Politik geweckt, weshalb ich mich nach der Matura für ein Studium der Volkswirtschaftslehre entschieden habe. 
-2021 erfolgte der Abschluss der ersten Etappe (Bachelor) und inzwischen befinde ich mich auf der Zielgerade meines Masterabschlusses.   </p>
+        <p>
+            1998 in Zürich geboren, durfte ich in Wettswil am Albis im Säuliamt aufwachsen.
+            Die Kombination von ländlichem Charme und Nähe zur Stadt ermöglichten mir eine schöne Kindheit und tolle
+            Jugendjahre. Dank tollen ÖV-Verbindungen konnte ich die Kantonsschule Enge besuchen, in welcher ich das
+            Profil Wirtschaft und Recht absolvierte. Dort wurde mein Interesse für Wirtschaft und Politik geweckt,
+            weshalb ich mich nach der Matura für ein Studium der Volkswirtschaftslehre entschieden habe. 2021
+            erfolgte der Abschluss der ersten Etappe (Bachelor) und inzwischen befinde ich mich auf der Zielgerade
+            meines Masterabschlusses.
+        </p>
     </div>
 
 </section>
