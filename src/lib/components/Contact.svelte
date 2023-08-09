@@ -21,7 +21,7 @@
     </div>
     <div class="contact-tile contact-tile-full-width">
         <img src="/images/contact-icons/Heart%20Icon.svg" alt="Icon eines Herzes">
-        Spendenkonto: CH25 0070 0110 0028 4973 0
+        Spendenkonto: CH25 0070 0110 0028 4973 0<br>
         Vermerk: Wahlen 2023
     </div>
 
