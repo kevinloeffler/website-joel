@@ -1,8 +1,11 @@
 <section class="header-section section-wrapper">
 
     <div class="header-wrapper">
-        <h1 class="title">Für Regenbögen, Gletscher und Erfolg. Mein <span class="header-highlighted-text highlighted-text-green">super</span> cooler
-            Wahlkampfspruch <span class="header-highlighted-text highlighted-text-blue">lebt</span> hier.</h1>
+        <h1 class="title">Für <span
+                class="header-highlighted-text highlighted-text-pink">Regenbögen</span>, <span
+                class="header-highlighted-text highlighted-text-green">Gletscher</span> und <span
+                class="header-highlighted-text highlighted-text-blue">Erfolg.</span>
+        </h1>
     </div>
 
     <p class="header-bullet-point">Nationalratskandidat Zürich</p>
@@ -65,6 +68,10 @@
 
     .highlighted-text-blue {
         background-image: linear-gradient(120deg, #119CD4 0%, #119CD4 100%);
+    }
+
+    .highlighted-text-pink {
+        background-image: linear-gradient(120deg, #ff82b1 0%, #ff82b1 100%);
     }
 
 </style>
