@@ -27,7 +27,7 @@
         {
             title: 'Klima',
             subtitle: 'Wir müssen unserer wichtigsten Ressource, dem Planeten, Sorge tragen.',
-            text: 'Eine grüne Wirtschaft? Ja, das ist möglich. Exteren Effekte müssen in die Preise aufgenommen werden, denn so wird das Klima aktiv in Produktions- und Konsumentscheidungen einbezogen. Klimafreundliche Alternativen werden attraktiver, sowohl für Konsument:innen, wie auch Produzent:innen. Anreize für technologische Fortschritte und deren Implementierung werden gestärkt. Lenkungsabgaben sind ein gutes Werkzeug um genau das zu erreichen. Im weiteren ist es unabdingbar, dass unsere Energieversorgung konsequent auf Erneuerbare umgestellt wird, weshalb diese in den kommenden Jahren gefördert werden müssen.',
+            text: 'Eine grüne Wirtschaft? Ja, das ist möglich. Externen Effekte müssen in die Preise aufgenommen werden, denn so wird das Klima aktiv in Produktions- und Konsumentscheidungen einbezogen. Klimafreundliche Alternativen werden attraktiver, sowohl für Konsument:innen, wie auch Produzent:innen. Anreize für technologische Fortschritte und deren Implementierung werden gestärkt. Lenkungsabgaben sind ein gutes Werkzeug um genau das zu erreichen. Im weiteren ist es unabdingbar, dass unsere Energieversorgung konsequent auf Erneuerbare umgestellt wird, weshalb diese in den kommenden Jahren gefördert werden müssen.',
         },
         {
             title: 'Gleichstellung & Chancengleichheit',
@@ -42,7 +42,7 @@
         {
             title: 'Migration',
             subtitle: 'Humanitäre Tradition der Schweiz schützen.',
-            text: 'Wer in Not ist soll Hilfe erhalten. Dafür braucht es schnelle Asylverfahren und Missbräuche müssen bekämpft werden. Wer in der Schweiz lebt muss sich integrieren. Grundätzlich liegt dies in der Verantwortung der jeweiligen Person, dennoch soll der Staat, wo nötig, mit z. B. kostenlosen Sprachkursen Unterstützung bieten. Nach erfolgreicher Integration soll die schweizer Staatsbürgerschaft ohne Schickane erworben werden können. Unsinnige Hürden, wie jahrelanger Wohnsitz in derselben Gemeinde, gehören abgeschafft. Für die Einbürgerung sollen schweizweit die gleichen Regeln gelten. Zudem soll für Kinder und junge Erwachsene, welche ihre obligatorische Schulzeit in der Schweiz absolviert haben, die Möglichkeit einer vereinfachten Einbürgen bestehen.' ,
+            text: 'Wer in Not ist soll Hilfe erhalten. Dafür braucht es schnelle Asylverfahren und Missbräuche müssen bekämpft werden. Wer in der Schweiz lebt muss sich integrieren. Grundätzlich liegt dies in der Verantwortung der jeweiligen Person, dennoch soll der Staat, wo nötig, mit z. B. kostenlosen Sprachkursen Unterstützung bieten. Nach erfolgreicher Integration soll die schweizer Staatsbürgerschaft ohne Schickane erworben werden können. Unsinnige Hürden, wie jahrelanger Wohnsitz in derselben Gemeinde, gehören abgeschafft. Für die Einbürgerung sollen schweizweit die gleichen Regeln gelten. Zudem soll für Kinder und junge Erwachsene, welche ihre obligatorische Schulzeit in der Schweiz absolviert haben, die Möglichkeit einer vereinfachten Einbürgerung bestehen.' ,
         },
     ]
 
