@@ -35,7 +35,7 @@
             text: 'Alle haben eine respektvolle und gleichwertige Behandlung verdient. Egal ob Sexualität, Geschlecht oder Herkunft, der Staat muss alle gleich behandeln und sich darum bemühen, dass alle möglichst dieselben Möglichkeiten erhalten. Nebst der eindeutigen rechtlichen Gleichbehandlung gehört die Chancengleichheit zu einem wichtigen Eckpfeil. Ein starkes Bildungssystem ist essentiell um Unterschiede in den persönlichen Voraussetzungen zu minimieren.' ,
         },
         {
-            title: 'Sozial',
+            title: 'Soziales',
             subtitle: 'Die Stärke der Schweiz misst sich am Wohl der Ärmsten.',
             text: 'Ein zielgerichtetes Sozialwesen als Auffangnetz ist wichtig. Wer auf Unterstützung angewiesen ist soll diese rasch erhalten. Dennoch soll in erster Linie Armut vermieden werden. Mittels einem starken Bildungssystem soll allen die Chance einer guten und finanziell anständigen Arbeit ermöglicht werden.   ',
         },
