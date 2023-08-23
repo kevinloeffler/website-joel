@@ -14,7 +14,7 @@
 
     const positions: {title: string, subtitle: string, text: string}[] = [
         {
-            title: 'Europa!',
+            title: 'Europa',
             subtitle: 'Wir sind Teil Europas.',
             text:
                 'Die EU ist unsere wichtigste Handelspartnerin. 4 unserer 5 Nachbarländer sind Teil der EU. Und wir? Wir drohen ins Abseits zu geraten. Es ist höchste Zeit, unsere Beziehung wieder auf Kurs zu bringen. Der einseitige Abbruch der Verhandlung zum Rahmenabkommen durch den Bundesrat war ein grosser Fehler. Die Verhandlung muss schnellstmöglich wieder aufgenommen werden, mit dem Ziel eines institutionellen Rahmenabkommens. Denn unsere Wirtschaft ist auf ein klares Abkommen angewiesen und die Bilateralen I und II erordieren zunehmends. Dringender Handlungsbedarf ist notwendig.',
