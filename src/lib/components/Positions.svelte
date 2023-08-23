@@ -17,12 +17,12 @@
             title: 'Europa',
             subtitle: 'Wir sind Teil Europas.',
             text:
-                'Die EU ist unsere wichtigste Handelspartnerin. 4 unserer 5 Nachbarländer sind Teil der EU. Und wir? Wir drohen ins Abseits zu geraten. Es ist höchste Zeit, unsere Beziehung wieder auf Kurs zu bringen. Der einseitige Abbruch der Verhandlung zum Rahmenabkommen durch den Bundesrat war ein grosser Fehler. Die Verhandlung muss schnellstmöglich wieder aufgenommen werden, mit dem Ziel eines institutionellen Rahmenabkommens. Denn unsere Wirtschaft ist auf ein klares Abkommen angewiesen und die Bilateralen I und II erordieren zunehmends. Dringender Handlungsbedarf ist notwendig.',
+                'Die EU ist unsere wichtigste Handelspartnerin. Vier unserer fünf Nachbarländer sind Teil der EU. Und wir? Wir drohen ins Abseits zu geraten. Es ist höchste Zeit, unsere Beziehung wieder auf Kurs zu bringen. Der einseitige Abbruch der Verhandlung zum Rahmenabkommen durch den Bundesrat war ein grosser Fehler. Die Verhandlung muss schnellstmöglich wieder aufgenommen werden, mit dem Ziel eines institutionellen Rahmenabkommens. Denn unsere Wirtschaft ist auf ein klares Abkommen angewiesen und die Bilateralen I und II erordieren zunehmends. Dringender Handlungsbedarf ist notwendig.',
         },
         {
             title: 'Wirtschaft',
             subtitle: 'Ein nachhaltiger und attraktiver Standort Schweiz.',
-            text: 'Ein langfristig erfolgreicher Wirtschaftsstandort braucht attraktive Rahmenbedingungen, die nicht nur kurzfristige Gewinne im Blick haben. Wirtschaft und Klima müssen verknüpft werden, denn nur wenn es unserem Planeten gut geht wird langfristig auch unsere Wirtschaft florieren. Mehr dazu im Abschnitt Klima. Weiterhin müssen bürokratische Hürden möglichst klein gehalten werden. Start-ups sollen schnell und unkompliziert mit ihrer Arbeit beginnen können. Zudem ist eine gute, stabile Beziehung zur EU essentiell. Die EU ist ein wichtiger Markt für viele Unternehmen und Fachkräfte aus der EU sind in vielen Bereichen dringend gesucht. Insgesamt müssen wir uns stetig in Erinnerung rufen, dass wir alle die Wirtschaft sind. Interessen der Unternehmen, Arbeitnehmenden, Konsument:innen, etc. müssen alle gleichwertig berücksichtigt werden.' ,
+            text: 'Ein langfristig erfolgreicher Wirtschaftsstandort braucht attraktive Rahmenbedingungen, die nicht nur kurzfristige Gewinne im Blick haben. Wirtschaft und Klima müssen verknüpft werden, denn nur wenn es unserem Planeten gut geht, wird langfristig auch unsere Wirtschaft florieren. Mehr dazu im Abschnitt Klima. Weiterhin müssen bürokratische Hürden möglichst klein gehalten werden. Start-ups sollen schnell und unkompliziert mit ihrer Arbeit beginnen können. Zudem ist eine gute, stabile Beziehung zur EU essentiell. Die EU ist ein wichtiger Markt für viele Unternehmen und Fachkräfte aus der EU sind in vielen Bereichen dringend gesucht. Insgesamt müssen wir uns stetig in Erinnerung rufen, dass wir alle die Wirtschaft sind. Interessen der Unternehmen, Arbeitnehmenden, Konsument:innen, etc. müssen alle gleichwertig berücksichtigt werden.' ,
         },
         {
             title: 'Klima',
@@ -37,7 +37,7 @@
         {
             title: 'Soziales',
             subtitle: 'Die Stärke der Schweiz misst sich am Wohl der Ärmsten.',
-            text: 'Ein zielgerichtetes Sozialwesen als Auffangnetz ist wichtig. Wer auf Unterstützung angewiesen ist soll diese rasch erhalten. Dennoch soll in erster Linie Armut vermieden werden. Mittels einem starken Bildungssystem soll allen die Chance einer guten und finanziell anständigen Arbeit ermöglicht werden.   ',
+            text: 'Ein zielgerichtetes Sozialwesen als Auffangnetz ist wichtig. Wer auf Unterstützung angewiesen ist, soll diese rasch erhalten. Dennoch soll in erster Linie Armut vermieden werden. Mittels einem starken Bildungssystem soll allen die Chance einer guten und finanziell anständigen Arbeit ermöglicht werden.   ',
         },
         {
             title: 'Migration',
